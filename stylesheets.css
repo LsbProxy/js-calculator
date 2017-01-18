@@ -1,0 +1,51 @@
+#plus {
+    height: 7.4em;
+    margin-top: -50px;
+}
+
+button {
+    height: 3.6em;
+    width: 3.6em;
+    margin-top: 4px;
+    box-shadow: 1px 2px 0px black;
+}
+
+.btn {
+    color: white;
+    font-weight: bold;
+}
+
+#calc {
+    margin: 25%;
+    background-color: #d9d9d9;
+    padding: 2em;
+    width: 270px;
+    border-radius: 1em;
+    box-shadow: 10px 10px 10px #a6a6a6;
+}
+
+#screen {
+    background-color: #d7f7d5;
+    font-size: 2em;
+    margin-bottom: 0.9em;
+}
+
+#plus,
+#minus,
+#divide,
+#multiply,
+#equal,
+#dot {
+    background-color: #737373;
+    border-color: #666666;
+}
+
+#AC {
+    background-color: #e62e00;
+    border-color: #cc2900;
+}
+
+.num {
+    background-color: #999999;
+    border-color: #8c8c8c;
+}
